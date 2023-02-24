@@ -1,0 +1,19 @@
+{
+  "name": "soha-website",
+  "version": "1.0.0",
+  "description": "soha <3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfuego/soha-website.git"
+  },
+  "author": "Firas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitfuego/soha-website/issues"
+  },
+  "homepage": "https://github.com/gitfuego/soha-website#readme"
+}
